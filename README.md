@@ -1,4 +1,4 @@
-## 3rd Year CUHK Undergraduate Students
+## Final Year CUHK Undergraduate Students
 ## BSc in Computer Science
 
 <!--
