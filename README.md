@@ -1,5 +1,6 @@
-## Final Year CUHK Undergraduate Students
-## BSc in Computer Science
+Final Year CUHK Undergraduate Students
+BSc in Computer Science
+
 
 <!--
 **LaF3116/LaF3116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
